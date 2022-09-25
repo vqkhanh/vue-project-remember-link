@@ -16,11 +16,11 @@
 
 <script>
 import StoredResources from './StoredResources.vue';
-import AdResource from './AdResource.vue';
+import AddResource from './AddResource.vue';
 
 export default {
   components: {
-    AdResource,
+    AddResource,
     StoredResources,
   },
   data() {
